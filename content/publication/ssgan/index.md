@@ -10,7 +10,7 @@ authors:
 - Tolga Cukur
 
 date: "2022-08-16T00:00:00Z"
-doi: "10.1109/TMI.2022.3199155"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"

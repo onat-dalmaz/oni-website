@@ -8,7 +8,7 @@ authors:
 - Tolga Cukur
 
 date: "2022-05-23T00:00:00Z"
-doi: "arXiv:2205.11578v2"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
