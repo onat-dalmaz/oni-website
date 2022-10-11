@@ -13,12 +13,12 @@ main:
   - name: Conference Proceedings
     url: '#proceedings'
     weight: 30
-  - name: Honors and Awards
-    url: '#awards'
-    weight: 40
-  - name: Academic Duties
-    url: '#duties'
-    weight: 50
+#  - name: Honors and Awards
+#    url: '#awards'
+#    weight: 40
+#  - name: Academic Duties
+#    url: '#duties'
+#    weight: 50
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
