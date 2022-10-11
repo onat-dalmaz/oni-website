@@ -79,4 +79,4 @@ My research focuses on the synergistic combination of computer vision and medica
 
 My research interests lie in the intersection of machine learning, computer vision, medical imaging. I devise novel deep learning algorithms in order to advance healthcare. My main specialties are multi-modal image synthesis, MRI reconstruction, and diagnostics in medical imaging. I am highly interested in state-of-the-art research topics in machine learning such as transformers, federated learning, and semi-supervised learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{<staticref"files/resume.pdf""newtab">}}resume.{{</staticref>}}
+{{< icon name="download" pack="fas" >}} Latest version of my curriculum vitae is available {{<staticref"files/resume.pdf""newtab">}}here.{{</staticref>}}
