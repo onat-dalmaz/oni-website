@@ -13,7 +13,7 @@ authors:
 
 
 date: "2022-07-19T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2207.09529"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
