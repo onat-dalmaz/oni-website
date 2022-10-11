@@ -1,5 +1,5 @@
 ---
-title: "Semi-Supervised Learning of MRI Synthesis without Fully-Sampled Ground Truths"
+title: "COVID-19 Detection from Respiratory Sounds with Hierarchical Spectrogram Transformers"
 authors:
 - Idil Aytekin
 - admin
@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*under review, IEEE Transactions on Medical Imaging*"
-publication_short: "IEEE TMI"
+publication_short: "under review, IEEE JHBI"
 
 abstract: Learning-based translation between MRI contrasts involves supervised deep models trained using high-quality source- and target-contrast images derived from fully-sampled acquisitions, which might be difficult to collect under limitations on scan costs or time. To facilitate curation of training sets, here we introduce the first semi-supervised model for MRI contrast translation (ssGAN) that can be trained directly using undersampled k-space data. To enable semi-supervised learning on undersampled data, ssGAN introduces novel multi-coil losses in image, k-space, and adversarial domains. The multi-coil losses are selectively enforced on acquired k-space samples unlike traditional losses in single-coil synthesis models. Comprehensive experiments on retrospectively undersampled multi-contrast brain MRI datasets are provided. Our results demonstrate that ssGAN yields on par performance to a supervised model, while outperforming single-coil models trained on coil-combined magnitude images. It also outperforms cascaded reconstruction-synthesis models where a supervised synthesis model is trained following self-supervised reconstruction of undersampled data. Thus, ssGAN holds great promise to improve the feasibility of learning-based multi-contrast MRI synthesis.
 
