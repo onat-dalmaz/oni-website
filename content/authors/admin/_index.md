@@ -18,7 +18,7 @@ organizations:
     url: https://ee.bilkent.edu.tr/tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Deep Learning, and Medical Imaging.
+bio: The focal point of my research is the synergestic combination of Machine Learning, Deep Learning, and Medical Imaging.
 
 # Interests to show in About widget
 interests:
@@ -75,8 +75,7 @@ highlight_name: true
 ---
 
 I am a Master's student at the Electrical and Electronics Engineering department of Bilkent University, where I work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at Bilkent University.
-My research focuses on the synergistic combination of computer vision and medical imaging to advance healthcare by developing novel deep learning models for accelerated multi-contrast MRI synthesis, reconstruction and super-resolution as well as for the foremost computer vision problems utilizing supervised and unsupervised learning approaches.
 
-My research interests lie in the intersection of machine learning, computer vision, medical imaging. I devise novel deep learning algorithms in order to advance healthcare. My main specialties are multi-modal image synthesis, MRI reconstruction, and diagnostics in medical imaging. I am highly interested in state-of-the-art research topics in machine learning such as transformers, federated learning, and semi-supervised learning.
+My research interests lie in the intersection of machine learning, computer vision, medical imaging. I devise novel deep learning algorithms to advance healthcare. My main specialties are multi-modal image synthesis, MRI reconstruction, and diagnostics in medical imaging. I am highly interested in state-of-the-art research topics in machine learning such as diffusion probabilistic models, transformers, federated learning, and semi-supervised learning.
 
 {{< icon name="download" pack="fas" >}} Latest version of my curriculum vitae is available {{<staticref"files/resume.pdf""newtab">}}here.{{</staticref>}}
