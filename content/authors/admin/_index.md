@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Onat Dalmaz
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Onat
+last_name: Dalmaz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.Sc. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,4 +81,4 @@ Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{<staticref"files/resume.pdf""newtab">}}resume.{{</staticref>}}
