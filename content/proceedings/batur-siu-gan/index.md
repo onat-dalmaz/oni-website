@@ -28,7 +28,7 @@ publication_types: ['1']
 publication: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU), 2022, pp. 1-4.*
 publication_short: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU)*
 
-abstract: The Batch-Constrained Q-learning algorithm is shown to overcome the extrapolation error and enable deep reinforcement learning agents to learn from a previously collected fixed batch of transitions. However, due to conditional Variational Autoencoders (VAE) used in the data generation module, the BCQ algorithm optimizes a lower variational bound and hence, it is not generalizable to environments with large state and action spaces. In this paper, we show that the performance of the BCQ algorithm can be further improved with the employment of one of the recent advances in deep learning, Generative Adversarial Networks. Our extensive set of experiments shows that the introduced approach significantly improves BCQ in all of the control tasks tested. Moreover, the introduced approach demonstrates robust generalizability to environments with large state and action spaces in the OpenAI Gym control suite.
+abstract: Presented in IEEE 30th Signal Processing and Communications Applications Conference (SIU 2022)
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

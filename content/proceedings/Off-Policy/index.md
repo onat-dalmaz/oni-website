@@ -28,7 +28,7 @@ publication_types: ['1']
 publication: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU), 2022, pp. 1-4.*
 publication_short: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU)*
 
-abstract: Exploration is maintained in continuous control using undirected methods, in which random noise perturbs the network parameters or selected actions. Exploration that is intrinsically driven is a good alternative to undirected techniques. However, it is only studied for discrete action domains. The intrinsic incentives in the existing reinforcement learning literature are unified together in this study by a deterministic artificial goal generation rule for off-policy learning. The agent gains additional reward through this practice if it chooses actions that lead it to useful state spaces. An extensive set of experiments indicates that the introduced artificial reward rule significantly improves the performance of the off-policy baseline algorithms.
+abstract: Presented in IEEE 30th Signal Processing and Communications Applications Conference (SIU 2022)
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

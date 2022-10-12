@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: '2022-04-01T00:00:00Z'
-doi: '10.1109/SIU55565.2022.9864880'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-29T00:00:00Z'
@@ -29,7 +29,7 @@ publication_types: ['1']
 publication: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU), 2022, pp. 1-4.*
 publication_short: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU)*
 
-abstract: Magnetic Resonance Imaging (MRI) is the favored modality in multi-modal medical imaging due to its safety and ability to acquire various different contrasts of the anatomy. Availability of multiple contrasts accumulates diagnostic information and, therefore, can improve radiological observations. In some scenarios, acquiring all contrasts might be challenging due to reluctant patients and increased costs associated with additional scans. That said, synthetically obtaining missing MRI pulse sequences from the acquired sequences might prove to be useful for further analyses. Recently introduced Generative Adversarial Network (GAN) models offer state-of-the-art performance in learning MRI synthesis. However, the proposed generative approaches learn a distinct model for each conditional contrast to contrast mapping. Learning a distinct synthesis model for each individual task increases the time and memory demands due to the increased number of parameters and training time. To mitigate this issue, we propose a novel unified synthesis model, bottleneck sharing GAN (bsGAN), to consolidate learning of synthesis tasks in multi-contrast MRI. bsGAN comprises distinct convolutional encoders and decoders for each contrast to increase synthesis performance. A central information bottleneck is employed to distill hidden representations. The bottleneck, based on residual convolutional layers, is shared across contrasts to avoid introducing many learnable parameters. Qualitative and quantitative comparisons on a multi-contrast brain MRI dataset show the effectiveness of the proposed method against existing unified synthesis methods.
+abstract: Presented in IEEE 30th Signal Processing and Communications Applications Conference (SIU 2022)
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

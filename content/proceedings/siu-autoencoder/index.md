@@ -1,15 +1,13 @@
 ---
-title: 'Multi-Contrast MRI Synthesis with Channel-Exchanging-Network'
+title: 'Improving Image Synthesis Quality in Multi-Contrast MRI Using Transfer Learning via Autoencoders'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Sahan Yoruc Selcuk
 - admin
-- I. Aytekin
 - Salman Dar
-- Aykut Erdem
-- Erkut Erdem
 - Tolga Cukur
 
 # Author notes (optional)
