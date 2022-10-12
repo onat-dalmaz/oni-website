@@ -10,7 +10,7 @@ last_name: Dalmaz
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Student
+role: M.Sc. Student in Department of Electrical and Electronics Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -76,6 +76,6 @@ highlight_name: true
 
 I am a Master's student at the Electrical and Electronics Engineering department of Bilkent University, where I work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at Bilkent University.
 
-My research interests lie in the intersection of machine learning, computer vision, medical imaging. I devise novel deep learning algorithms to advance healthcare. My main specialties are multi-modal image synthesis, MRI reconstruction, and diagnostics in medical imaging. I am highly interested in state-of-the-art research topics in deep learning including, but not limited to diffusion probabilistic models, transformers, federated learning, and semi-supervised learning.
+My research interests lie in the intersection of machine learning, computer vision, medical imaging. I devise novel deep learning algorithms for multi-modal image synthesis, MRI reconstruction, and diagnostics in medical imaging. I am highly interested in state-of-the-art research topics in deep learning including, but not limited to diffusion probabilistic models, transformers, federated learning, and semi-supervised/unsupervised learning.
 
 {{< icon name="download" pack="fas" >}} Latest version of my curriculum vitae is available {{<staticref"files/resume.pdf""newtab">}}here.{{</staticref>}}
