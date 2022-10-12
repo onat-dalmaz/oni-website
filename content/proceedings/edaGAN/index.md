@@ -44,7 +44,7 @@ featured: true
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://ieeexplore.ieee.org/document/6975210'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

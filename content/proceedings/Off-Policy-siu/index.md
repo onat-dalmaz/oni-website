@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 
 date: '2022-04-01T00:00:00Z'
-doi: '10.1109/SIU55565.2022.9864795'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-29T00:00:00Z'
@@ -45,7 +45,7 @@ featured: true
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://www.gymlibrary.dev/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
