@@ -1,20 +1,21 @@
 ---
-title: 'An Intrinsic Motivation Based Artificial Goal Generation in On-Policy Continuous Control'
+title: 'A Specificity-Preserving Generative Model for Federated MRI Translation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Baturay Saglam
-  - Furkan B. Mutlu
-  - Kaan Gonc
-  - admin
-  - Suleyman S. Kozat
+- admin
+- Usama Mirza
+- Gökberk Elmas
+- Muzaffer Özbey
+- Salman UH Dar
+- Tolga Cukur
 
 # Author notes (optional)
 
-date: '2022-04-01T00:00:00Z'
-doi: '10.1109/SIU55565.2022.9864957'
+date: '2022-10-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-29T00:00:00Z'
@@ -26,10 +27,10 @@ publishDate: '2022-08-29T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU), 2022, pp. 1-4.*
-publication_short: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU)*
+publication: In *MICCAI Workshop on “Distributed, Collaborative and Federated Learning” (MICCAI-DeCaF)*
+publication_short: In *MICCAI-DeCaF*
 
-abstract: This work adapts the existing theories on animal motivational systems into the reinforcement learning (RL) paradigm to constitute a directed exploration strategy in on-policy continuous control. We introduce a novel and scalable artificial bonus reward rule that encourages agents to visit useful state spaces. By unifying the intrinsic incentives in the reinforcement learning paradigm under the introduced deterministic reward rule, our method forces the value function to learn the values of unseen or less-known states and prevent premature behavior before sufficiently learning the environment. The simulation results show that the proposed algorithm considerably improves the state-of-the-art on-policy methods and improves the inherent entropy-based exploration.
+abstract: MRI translation models learn a mapping from an acquired source contrast to an unavailable target contrast. Collaboration between institutes is essential to train translation models that can generalize across diverse datasets. That said, aggregating all imaging data and training a centralized model poses privacy problems. Recently, federated learning (FL) has emerged as a collaboration framework that enables decentralized training to avoid sharing of imaging data. However, FL-trained translation models can deteriorate by the inherent heterogeneity in the distribution of MRI data. To improve reliability against domain shifts, here we introduce a novel specificity-preserving FL method for MRI contrast translation. The proposed approach is based on an adversarial model that adaptively normalizes the feature maps across the generator based on site-specific latent variables. Comprehensive FL experiments were conducted on multi-site datasets to show the effectiveness of the proposed approach against prior federated methods in MRI contrast translation.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

@@ -1,20 +1,21 @@
 ---
-title: 'An Intrinsic Motivation Based Artificial Goal Generation in On-Policy Continuous Control'
+title: 'Multi-Contrast MRI Synthesis with Channel-Exchanging-Network'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Baturay Saglam
-  - Furkan B. Mutlu
-  - Kaan Gonc
-  - admin
-  - Suleyman S. Kozat
+- admin
+- I. Aytekin
+- Salman Dar
+- Aykut Erdem
+- Erkut Erdem
+- Tolga Cukur
 
 # Author notes (optional)
 
 date: '2022-04-01T00:00:00Z'
-doi: '10.1109/SIU55565.2022.9864957'
+doi: '10.1109/SIU55565.2022.9864880'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-29T00:00:00Z'
@@ -29,7 +30,7 @@ publication_types: ['1']
 publication: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU), 2022, pp. 1-4.*
 publication_short: In *IEEE 30th Signal Processing and Communications Applications Conference (SIU)*
 
-abstract: This work adapts the existing theories on animal motivational systems into the reinforcement learning (RL) paradigm to constitute a directed exploration strategy in on-policy continuous control. We introduce a novel and scalable artificial bonus reward rule that encourages agents to visit useful state spaces. By unifying the intrinsic incentives in the reinforcement learning paradigm under the introduced deterministic reward rule, our method forces the value function to learn the values of unseen or less-known states and prevent premature behavior before sufficiently learning the environment. The simulation results show that the proposed algorithm considerably improves the state-of-the-art on-policy methods and improves the inherent entropy-based exploration.
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
