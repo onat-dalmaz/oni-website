@@ -29,10 +29,10 @@ publishDate: '2022-02-18T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *SPIE Medical Imaging 2022: Computer-Aided Diagnosis, San Diego, USA,*
-publication_short: In *SPIE Medical Imaging 2022: Computer-Aided Diagnosis, San Diego, USA,*
+publication: In *SPIE Medical Imaging 2022, Computer-Aided Diagnosis, San Diego, USA*
+publication_short: In *SPIE Medical Imaging 2022, Computer-Aided Diagnosis, San Diego, USA*
 
-abstract: Presented in SPIE Medical Imaging 2022: Computer-Aided Diagnosis, San Diego, USA,
+abstract: Presented in SPIE Medical Imaging 2022, Computer-Aided Diagnosis, San Diego, USA
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
