@@ -1,6 +1,5 @@
 ---
-title: 'Adversarial Residual Transformers For Multi-Modal Medical Image
-synthesis'
+title: 'Detecting COVID-19 from respiratory sound recordings with transformers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
