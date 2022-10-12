@@ -1,22 +1,26 @@
 ---
-title: 'Adversarial Residual Transformers For Multi-Modal Medical Image
-synthesis'
+title: 'Cycle-Consistent Adversarial Transformers for
+Unpaired MR Image Translation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:    
+- Idil Aytekin
 - admin
-- Mahmut Yurt
+- Haydar Ankishan
+- Emine U Saritas
+- Ulas Bagci
+- Haydar Celik
 - Tolga Cukur
 
 # Author notes (optional)
 
-date: '2022-03-22T00:00:00Z'
+date: '2022-02-18T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-22T00:00:00Z'
+publishDate: '2022-02-18T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +29,10 @@ publishDate: '2022-03-22T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE 19th International Symposium on Biomedical Imaging (ISBI 2022)*
-publication_short: In *IEEE 19th International Symposium on Biomedical Imaging (ISBI 2022)*
+publication: In *SPIE Medical Imaging 2022: Computer-Aided Diagnosis, San Diego, USA,*
+publication_short: In *SPIE Medical Imaging 2022: Computer-Aided Diagnosis, San Diego, USA,*
 
-abstract: Presented in IEEE 19th International Symposium on Biomedical Imaging (ISBI 2022)
+abstract: Presented in SPIE Medical Imaging 2022: Computer-Aided Diagnosis, San Diego, USA,
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
