@@ -18,7 +18,7 @@ organizations:
     url: https://ee.bilkent.edu.tr/tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: The focal point of my research is the synergestic combination of Machine Learning, and Medical Imaging.
+bio: The focal point of my research is the synergistic combination of machine learning, and medical imaging.
 
 # Interests to show in About widget
 interests:
