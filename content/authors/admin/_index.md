@@ -76,7 +76,7 @@ highlight_name: true
 
 I am a Master's student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at Bilkent University.
 
-My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. I leverage novel deep learning and computer vision algorithms to devise state-of-the-art
+My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. I leverage deep learning and computer vision algorithms to devise state-of-the-art
 biomedical imaging techniques. The focal point of my research is developing novel deep generative models for multi-modal medical
 image synthesis.
 
