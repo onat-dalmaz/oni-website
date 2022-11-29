@@ -18,7 +18,7 @@ organizations:
     url: https://ee.bilkent.edu.tr/tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: The focal point of my research is the synergestic combination of Machine Learning, Deep Learning, and Medical Imaging.
+bio: The focal point of my research is the synergestic combination of Machine Learning, and Medical Imaging.
 
 # Interests to show in About widget
 interests:
@@ -74,8 +74,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a Master's student in the Electrical and Electronics Engineering department at Bilkent University, where I work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at Bilkent University.
+I am a Master's student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at Bilkent University.
 
-My research interests lie in the intersection of machine learning, computer vision, medical imaging. I devise novel deep learning algorithms for multi-modal image synthesis, MRI reconstruction, and diagnostics in medical imaging. I am highly interested in state-of-the-art research topics in deep learning including, but not limited to diffusion probabilistic models, transformers, federated learning, and semi-supervised/unsupervised learning.
+My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. I leverage novel deep learning and computer vision algorithms to devise state-of-the-art
+biomedical imaging techniques. The focal point of my research is developing novel deep generative models for multi-modal medical
+image synthesis.
 
 {{< icon name="download" pack="fas" >}} Latest version of my curriculum vitae is available {{<staticref"files/resume.pdf""newtab">}}here.{{</staticref>}}
