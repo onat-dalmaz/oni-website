@@ -80,4 +80,8 @@ My interests lie in the intersection of machine learning, computer vision, medic
 biomedical imaging techniques. The focal point of my research is developing novel deep generative models for multi-modal medical
 image synthesis.
 
+Starting from Autumun 2023, I'll join Stanford University to pursue a Ph.D. in the Department of Electrical Engineering! So excited!
+
+
+
 {{< icon name="download" pack="fas" >}} Latest version of my curriculum vitae is available {{<staticref"files/resume.pdf""newtab">}}here.{{</staticref>}}
