@@ -10,15 +10,15 @@ last_name: Dalmaz
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Student in Department of Electrical and Electronics Engineering
+role: Ph.D. Student in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Bilkent University
-    url: https://ee.bilkent.edu.tr/tr/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: The focal point of my research is the synergistic combination of machine learning, and medical imaging.
+bio: The focal point of my research is the synergistic combination of machine learning and medical imaging.
 
 # Interests to show in About widget
 interests:
@@ -32,6 +32,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D., Electrical Engineering
+      institution: Stanford University
+      year: 2023 - 2027
     - course: M.Sc., Electrical and Electronics Engineering
       institution: Bilkent University
       year: 2020 - 2023
@@ -74,13 +77,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a Master's student in the Electrical and Electronics Engineering department at Bilkent University, where I am fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). I received my B.Sc. in Electrical and Electronics Engineering at Bilkent University.
+I am a 1st year Ph.D. student in Electrical Engineering at Stanford University. I receieved my M.Sc. and B.Sc. in Electrical and Electronics Engineering at Bilkent University, where I was fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. The focal point of my research is developing novel deep generative models for multi-modal medical image synthesis and MRI reconstruction.
 
-My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. I leverage deep learning and computer vision algorithms to devise state-of-the-art
-biomedical imaging techniques. The focal point of my research is developing novel deep generative models for multi-modal medical
-image synthesis.
-
-Starting from Autumun 2023, I'll join Stanford University to pursue a Ph.D. in the Department of Electrical Engineering!
+# Starting from Autumun 2023, I'll join Stanford University to pursue a Ph.D. in the Department of Electrical Engineering!
 
 
 

@@ -10,10 +10,10 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Conference Proceedings
-    url: '#proceedings'
-    weight: 30
-#  - name: Honors and Awards
+#   - name: Conference Proceedings
+#     url: '#proceedings'
+#     weight: 30
+# #  - name: Honors and Awards
 #    url: '#awards'
 #    weight: 40
 #  - name: Academic Duties
