@@ -79,7 +79,7 @@ highlight_name: true
 
 I am a 1st year Ph.D. student in Electrical Engineering at Stanford University. I receieved my M.Sc. and B.Sc. in Electrical and Electronics Engineering at Bilkent University, where I was fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. The focal point of my research is developing novel deep generative models for multi-modal medical image synthesis and MRI reconstruction.
 
-# Starting from Autumun 2023, I'll join Stanford University to pursue a Ph.D. in the Department of Electrical Engineering!
+
 
 
 
