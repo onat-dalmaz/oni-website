@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a 1st year Ph.D. student in Electrical Engineering at Stanford University. I receieved my M.Sc. and B.Sc. in Electrical and Electronics Engineering at Bilkent University, where I was fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. The focal point of my research is developing novel deep generative models for multi-modal medical image synthesis and MRI reconstruction.
+I am a 1st year Ph.D. student in Electrical Engineering at Stanford University, advised by [Prof. Brian Hargreaves](https://med.stanford.edu/profiles/brian-hargreaves#bio) and [Prof. Akshay Chaudhari](https://profiles.stanford.edu/akshay-chaudhari). I receieved my M.Sc. and B.Sc. in Electrical and Electronics Engineering at Bilkent University, where I was fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. The focal point of my research is developing novel deep generative models for multi-modal medical image synthesis and MRI reconstruction.
 
 
 
