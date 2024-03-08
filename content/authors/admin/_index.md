@@ -52,7 +52,7 @@ social:
     link: mailto:onat@ee.bilkent.edu.tr
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=tr&user=mZrepoMAAAAJ
+    link: https://scholar.google.com/citations?user=mZrepoMAAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Onat-Dalmaz
