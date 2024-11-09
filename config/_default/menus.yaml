@@ -10,12 +10,13 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Contact
-    url: '#contact'
-    weight: 60
-#   - name: Conference Proceedings
-#     url: '#proceedings'
-#     weight: 30
+  - name: Conference Proceedings
+    url: '#proceedings'
+    weight: 30
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
+
 # #  - name: Honors and Awards
 #    url: '#awards'
 #    weight: 40
