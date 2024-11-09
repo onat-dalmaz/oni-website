@@ -18,16 +18,16 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests lie in the intersection of machine learning, signal processing, computational MR imaging, and healthcare.
+bio: The focal point of my research is the synergistic combination of machine learning and medical imaging.
 
 # Interests to show in About widget
 interests:
-  - AI for healthcare
+  - Machine Learning
   - Signal Processing
-  - Computational MRI
+  - Medical Imaging
+  - Computer Vision
   - Medical Image Analysis
   - Generative Models
-  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -77,7 +77,7 @@ email: 'onat@stanford.edu'
 highlight_name: true
 ---
 
-I am a 2nd year Ph.D. student in Electrical Engineering at Stanford University, advised by [Brian Hargreaves](https://med.stanford.edu/profiles/brian-hargreaves#bio) and [Akshay Chaudhari](https://profiles.stanford.edu/akshay-chaudhari). I receieved my M.Sc. and B.Sc. in Electrical and Electronics Engineering at Bilkent University, where I was fortunate to work with [Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). My interests lie in the intersection of machine learning, signal processing, computational MR imaging, and healthcare. These days, I've been working on developing mathematical tools to improve explainability of image reconstruction algorithms.
+I am a 1st year Ph.D. student in Electrical Engineering at Stanford University, advised by [Prof. Brian Hargreaves](https://med.stanford.edu/profiles/brian-hargreaves#bio) and [Prof. Akshay Chaudhari](https://profiles.stanford.edu/akshay-chaudhari). I receieved my M.Sc. and B.Sc. in Electrical and Electronics Engineering at Bilkent University, where I was fortunate to work with [Prof. Tolga Cukur](http://kilyos.ee.bilkent.edu.tr/~cukur/). My interests lie in the intersection of machine learning, computer vision, medical imaging, and healthcare. The focal point of my research is developing novel deep generative models for multi-modal medical image synthesis and MRI reconstruction.
 
 
 
