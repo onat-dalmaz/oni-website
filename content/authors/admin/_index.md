@@ -10,7 +10,7 @@ last_name: Dalmaz
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Electrical Engineering
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
     - course: Ph.D., Electrical Engineering
       institution: Stanford University
-      year: 2023 - 2027
+      year: 2023 - present
     - course: M.Sc., Electrical and Electronics Engineering
       institution: Bilkent University
       year: 2020 - 2023
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:onat@ee.bilkent.edu.tr
+    link: mailto:onat@stanford.edu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=mZrepoMAAAAJ&hl=en
@@ -71,7 +71,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'onat@stanford.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
