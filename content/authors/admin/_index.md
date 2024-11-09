@@ -18,7 +18,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: The focal point of my research is the synergistic combination of machine learning and medical imaging.
+bio: My interests lie in the intersection of machine learning, signal processing, computational MR imaging, and healthcare.
 
 # Interests to show in About widget
 interests:
