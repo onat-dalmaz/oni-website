@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: blue
-  theme_night: blue
-  font: roboto
-  font_size: S
+  theme_day: earth
+  theme_night: earth
+  font: minimal
+  font_size: XL
 
 # SEO
 
