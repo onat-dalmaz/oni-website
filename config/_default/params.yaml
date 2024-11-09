@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: blue
-  theme_night: blue
+  theme_day: earth
+  theme_night: earth
   font: minimal
-  font_size: S
+  font_size: L
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '©'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
