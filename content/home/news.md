@@ -8,8 +8,8 @@ headless: true
 # Order that this section appears on the page (place after the "About" section).
 weight: 40
 
-title: "Latest News"
-subtitle: "Stay informed with our recent updates."
+title: "News"
+subtitle: ""
 
 content:
   # Filter on criteria.
@@ -25,4 +25,3 @@ design:
   columns: '1'  # Number of columns for display
 ---
 
-# Additional text can go here if you want to add an introductory message.
